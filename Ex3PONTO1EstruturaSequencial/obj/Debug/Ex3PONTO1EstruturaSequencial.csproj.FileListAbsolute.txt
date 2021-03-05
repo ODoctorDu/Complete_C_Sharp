@@ -1,0 +1,7 @@
+D:\Arquivos\Documentos 2\Cursos\Udemy\C# Completo\Seção 3 - Recapitulação de Lógica de programação usando C#\Ex3PONTO1EstruturaSequencial\Ex3PONTO1EstruturaSequencial\bin\Debug\Ex3PONTO1EstruturaSequencial.exe.config
+D:\Arquivos\Documentos 2\Cursos\Udemy\C# Completo\Seção 3 - Recapitulação de Lógica de programação usando C#\Ex3PONTO1EstruturaSequencial\Ex3PONTO1EstruturaSequencial\bin\Debug\Ex3PONTO1EstruturaSequencial.exe
+D:\Arquivos\Documentos 2\Cursos\Udemy\C# Completo\Seção 3 - Recapitulação de Lógica de programação usando C#\Ex3PONTO1EstruturaSequencial\Ex3PONTO1EstruturaSequencial\bin\Debug\Ex3PONTO1EstruturaSequencial.pdb
+D:\Arquivos\Documentos 2\Cursos\Udemy\C# Completo\Seção 3 - Recapitulação de Lógica de programação usando C#\Ex3PONTO1EstruturaSequencial\Ex3PONTO1EstruturaSequencial\obj\Debug\Ex3PONTO1EstruturaSequencial.csprojAssemblyReference.cache
+D:\Arquivos\Documentos 2\Cursos\Udemy\C# Completo\Seção 3 - Recapitulação de Lógica de programação usando C#\Ex3PONTO1EstruturaSequencial\Ex3PONTO1EstruturaSequencial\obj\Debug\Ex3PONTO1EstruturaSequencial.csproj.CoreCompileInputs.cache
+D:\Arquivos\Documentos 2\Cursos\Udemy\C# Completo\Seção 3 - Recapitulação de Lógica de programação usando C#\Ex3PONTO1EstruturaSequencial\Ex3PONTO1EstruturaSequencial\obj\Debug\Ex3PONTO1EstruturaSequencial.exe
+D:\Arquivos\Documentos 2\Cursos\Udemy\C# Completo\Seção 3 - Recapitulação de Lógica de programação usando C#\Ex3PONTO1EstruturaSequencial\Ex3PONTO1EstruturaSequencial\obj\Debug\Ex3PONTO1EstruturaSequencial.pdb
